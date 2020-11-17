@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1605583909489" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="2" last="1605583947784" />
+      </entry>
+      <entry key="com.doitnow.PopupDialogAction">
+        <ActionSummary times="4" last="1605584005637" />
+      </entry>
+    </data>
+  </component>
+</application>

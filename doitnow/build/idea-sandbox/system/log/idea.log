@@ -1,0 +1,334 @@
+2020-11-17 11:31:37,423 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-11-17 11:31:37,458 [     35]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-201.7846.76, 01 Jun 2020 12:17) 
+2020-11-17 11:31:37,462 [     39]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-11-17 11:31:37,462 [     39]   INFO -        #com.intellij.idea.Main - JRE: 11.0.7+10-b765.53 (JetBrains s.r.o.) 
+2020-11-17 11:31:37,462 [     39]   INFO -        #com.intellij.idea.Main - JVM: 11.0.7+10-b765.53 (OpenJDK 64-Bit Server VM) 
+2020-11-17 11:31:37,463 [     40]   INFO -        #com.intellij.idea.Main - JVM Args: -Didea.classpath.index.enabled=false -Didea.config.path=G:\tool\git\xzc\work_for_your_mind\doitnow\build\idea-sandbox\config -Didea.is.internal=true -Didea.platform.prefix=Idea -Didea.plugins.path=G:\tool\git\xzc\work_for_your_mind\doitnow\build\idea-sandbox\plugins -Didea.required.plugins.id=org.example.wlnlz.doitnow -Didea.system.path=G:\tool\git\xzc\work_for_your_mind\doitnow\build\idea-sandbox\system -Xms256m -Xmx512m -Dfile.encoding=GBK -Duser.country=CN -Duser.language=zh -Duser.variant -ea 
+2020-11-17 11:31:37,464 [     41]   INFO -        #com.intellij.idea.Main - Locale=zh_CN JNU=GBK file.encoding=GBK 
+2020-11-17 11:31:37,982 [    559]   INFO - ntellij.idea.ApplicationLoader - CPU cores: 24; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@b0e40e6[Running, parallelism = 23, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@1983bd29 
+2020-11-17 11:31:38,524 [   1101]   INFO - llij.ide.plugins.PluginManager - Plugin org.intellij.groovy misses optional descriptor duplicates-groovy.xml 
+2020-11-17 11:31:38,524 [   1101]   INFO - llij.ide.plugins.PluginManager - Plugin org.intellij.groovy misses optional descriptor duplicates-detection-groovy.xml 
+2020-11-17 11:31:38,813 [   1390]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 1370 ms 
+2020-11-17 11:31:38,821 [   1398]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-11-17 11:31:38,866 [   1443]   INFO - llij.ide.plugins.PluginManager - Plugin com.intellij.java misses optional descriptor profiler-java.xml 
+2020-11-17 11:31:39,002 [   1579]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: IDEA CORE (201.7846.76), com.intellij.platform.images (201.7846.76), JetBrains Repository Search (201.7846.76), Subversion (201.7846.76), XPathView + XSLT (201.7846.76), XSLT Debugger (201.7846.76), Smali Support (201.7846.76), Configuration Script (201.7846.76), Copyright (201.7846.76), Java (201.7846.76), Bytecode Viewer (201.7846.76), Git (201.7846.76), ChangeReminder (201.7846.76), Next File Prediction (201.7846.76), JUnit (201.7846.76), Task Management (201.7846.76), GitHub (201.7846.76), IntelliLang (201.7846.76), TestNG (201.7846.76), Code Coverage for Java (201.7846.76), Markdown (201.7846.76), Java IDE Customization (201.7846.76), Java Stream Debugger (201.7846.76), Eclipse Interoperability (201.7846.76), Java Bytecode Decompiler (201.7846.76), Gradle (201.7846.76), macOS Light Theme (201.7846.76), Windows 10 Light Theme (201.7846.76), Properties (201.7846.76), Ant (201.7846.76), Groovy (201.7846.76), Maven (201.7846.76), Gradle-Java (201.7846.76), Gradle-Maven (201.7846.76), Java Internationalization (201.7846.76), Kotlin (1.3.72-release-IJ2020.1-1), UI Designer (201.7846.76), Plugin DevKit (201.7846.76), JavaFX (201.7846.76), Resource Bundle Editor (201.7846.76), Machine Learning Code Completion (201.7846.76), Mercurial (201.7846.76), EditorConfig (201.7846.76), Terminal (201.7846.76), Android (201.7846.76), Shell Script (201.7846.76), TextMate bundles (201.7846.76), YAML (201.7846.76), Grazie (201.7846.76), Settings Repository (201.7846.76) 
+2020-11-17 11:31:39,002 [   1579]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Plugin display name here (1.0-SNAPSHOT) 
+2020-11-17 11:31:39,484 [   2061]   WARN - j.internal.DebugAttachDetector - Unable to start DebugAttachDetector, please add `--add-exports java.base/jdk.internal.vm=ALL-UNNAMED` to VM options 
+2020-11-17 11:31:39,554 [   2131]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=492; buffer=10; max=492 
+2020-11-17 11:31:39,596 [   2173]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes 
+2020-11-17 11:31:39,596 [   2173]   INFO - fs.newvfs.persistent.FSRecords - Marking VFS as corrupted: 'G:\tool\git\xzc\work_for_your_mind\doitnow\build\idea-sandbox\system\caches\names.dat' does not exist 
+2020-11-17 11:31:39,645 [   2222]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-11-17 11:31:39,645 [   2222]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-11-17 11:31:39,663 [   2240]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-11-17 11:31:39,768 [   2345]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-11-17 11:31:39,856 [   2433]   INFO - stubs.SerializationManagerImpl - Name storage is repaired 
+2020-11-17 11:31:39,890 [   2467]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'FilenameIndex'; old = -1, new = 3 
+2020-11-17 11:31:39,946 [   2523]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'FrameworkDetectionIndex'; old = -1, new = 0 
+2020-11-17 11:31:39,968 [   2545]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'TodoIndex'; old = -1, new = 4107 
+2020-11-17 11:31:40,023 [   2600]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'IdIndex'; old = -1, new = 4112 
+2020-11-17 11:31:40,066 [   2643]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'filetypes'; old = -1, new = 2 
+2020-11-17 11:31:40,085 [   2662]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'Stubs'; old = -1, new = 46 
+2020-11-17 11:31:40,229 [   2806]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63343 
+2020-11-17 11:31:40,251 [   2828]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'Trigram.Index'; old = -1, new = 4099 
+2020-11-17 11:31:40,272 [   2849]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'fileIncludes'; old = -1, new = 6 
+2020-11-17 11:31:40,341 [   2918]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'DomFileIndex'; old = -1, new = -1189920956 
+2020-11-17 11:31:40,371 [   2948]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'RelaxSymbolIndex'; old = -1, new = 0 
+2020-11-17 11:31:40,383 [   2960]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'XmlTagNames'; old = -1, new = 1 
+2020-11-17 11:31:40,396 [   2973]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'XmlNamespaces'; old = -1, new = 7 
+2020-11-17 11:31:40,409 [   2986]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'html5.custom.attributes.index'; old = -1, new = 1 
+2020-11-17 11:31:40,421 [   2998]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'SchemaTypeInheritance'; old = -1, new = 2 
+2020-11-17 11:31:40,433 [   3010]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'json.file.root.values'; old = -1, new = 5 
+2020-11-17 11:31:40,446 [   3023]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'ImageFileInfoIndex'; old = -1, new = 8 
+2020-11-17 11:31:40,454 [   3031]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'XsltSymbolIndex'; old = -1, new = 0 
+2020-11-17 11:31:40,467 [   3044]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'bytecodeAnalysis'; old = -1, new = 4107 
+2020-11-17 11:31:40,484 [   3061]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.auto.module.name'; old = -1, new = 5 
+2020-11-17 11:31:40,496 [   3073]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.source.module.name'; old = -1, new = 2 
+2020-11-17 11:31:40,508 [   3085]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.null.method.argument'; old = -1, new = 4097 
+2020-11-17 11:31:40,526 [   3103]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.simple.property'; old = -1, new = 3 
+2020-11-17 11:31:40,533 [   3110]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.fun.expression'; old = -1, new = 4100 
+2020-11-17 11:31:40,551 [   3128]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.binary.plus.expression'; old = -1, new = 4099 
+2020-11-17 11:31:40,569 [   3146]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'RefQueueIndex'; old = -1, new = 0 
+2020-11-17 11:31:40,582 [   3159]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'xmlProperties'; old = -1, new = 2 
+2020-11-17 11:31:40,595 [   3172]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'ant-imports'; old = -1, new = 5 
+2020-11-17 11:31:40,607 [   3184]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'groovy.trait.fields'; old = -1, new = 5 
+2020-11-17 11:31:40,613 [   3190]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'groovy.trait.methods'; old = -1, new = 25 
+2020-11-17 11:31:40,621 [   3198]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex'; old = -1, new = 5 
+2020-11-17 11:31:40,634 [   3211]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex'; old = -1, new = 3 
+2020-11-17 11:31:40,647 [   3224]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex'; old = -1, new = 3 
+2020-11-17 11:31:40,660 [   3237]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex'; old = -1, new = 4 
+2020-11-17 11:31:40,673 [   3250]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex'; old = -1, new = 1 
+2020-11-17 11:31:40,687 [   3264]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex'; old = -1, new = 1 
+2020-11-17 11:31:40,699 [   3276]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex'; old = -1, new = 5 
+2020-11-17 11:31:40,712 [   3289]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex'; old = -1, new = 2 
+2020-11-17 11:31:40,726 [   3303]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex'; old = -1, new = 1 
+2020-11-17 11:31:40,739 [   3316]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex'; old = -1, new = 4 
+2020-11-17 11:31:40,752 [   3329]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'com.intellij.uiDesigner.FormClassIndex'; old = -1, new = 0 
+2020-11-17 11:31:40,764 [   3341]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'IdeaPluginRegistrationIndex'; old = -1, new = 3 
+2020-11-17 11:31:40,776 [   3353]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'PluginIdModuleIndex'; old = -1, new = 1 
+2020-11-17 11:31:40,788 [   3365]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'PluginIdDependenciesIndex'; old = -1, new = 1 
+2020-11-17 11:31:40,800 [   3377]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'devkit.ExtensionPointIndex'; old = -1, new = 0 
+2020-11-17 11:31:40,813 [   3390]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'JavaFxControllerClassIndex'; old = -1, new = 1 
+2020-11-17 11:31:40,828 [   3405]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'javafx.id.name'; old = -1, new = 2 
+2020-11-17 11:31:40,840 [   3417]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'javafx.custom.component'; old = -1, new = 1 
+2020-11-17 11:31:40,851 [   3428]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'editorconfig.index.name'; old = -1, new = 5 
+2020-11-17 11:31:40,864 [   3441]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'BindingXmlIndex'; old = -1, new = 7 
+2020-11-17 11:31:40,876 [   3453]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'yaml.keys.name'; old = -1, new = 1 
+2020-11-17 11:31:40,891 [   3468]   INFO - il.indexing.FileBasedIndexImpl - Indices to be rebuilt after corruption:FilenameIndex,FrameworkDetectionIndex,TodoIndex,IdIndex,filetypes,Stubs,Trigram.Index,fileIncludes,DomFileIndex,RelaxSymbolIndex,XmlTagNames,XmlNamespaces,html5.custom.attributes.index,SchemaTypeInheritance,json.file.root.values,ImageFileInfoIndex,XsltSymbolIndex,bytecodeAnalysis,java.auto.module.name,java.source.module.name,java.null.method.argument,java.simple.property,java.fun.expression,java.binary.plus.expression,RefQueueIndex,xmlProperties,ant-imports,groovy.trait.fields,groovy.trait.methods,org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex,org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex,org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex,com.intellij.uiDesigner.FormClassIndex,IdeaPluginRegistrationIndex,PluginIdModuleIndex,PluginIdDependenciesIndex,devkit.ExtensionPointIndex,JavaFxControllerClassIndex,javafx.id.name,javafx.custom.component,editorconfig.index.name,BindingXmlIndex,yaml.keys.name 
+2020-11-17 11:31:40,897 [   3474]   INFO - leBasedIndexDataInitialization - Initialization done: 1259 
+2020-11-17 11:31:40,974 [   3551]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'dom.namespaceKey'; old = -1, new = 1 
+2020-11-17 11:31:40,984 [   3561]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'dom.elementClass'; old = -1, new = 0 
+2020-11-17 11:31:40,992 [   3569]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.module.name'; old = -1, new = 4 
+2020-11-17 11:31:41,000 [   3577]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Users\xzc\.gradle\caches\modules-2\files-2.1\com.jetbrains.intellij.idea\ideaIC\2020.1.2\86566d2c582df026dd77c0c502a21dfac312563a\ideaIC-2020.1.2\bin\win\fsnotifier64.exe 
+2020-11-17 11:31:41,000 [   3577]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.method.parameter.types'; old = -1, new = 3 
+2020-11-17 11:31:41,008 [   3585]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.class.extlist'; old = -1, new = 3 
+2020-11-17 11:31:41,017 [   3594]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-11-17 11:31:41,018 [   3595]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.class.shortname'; old = -1, new = 4 
+2020-11-17 11:31:41,030 [   3607]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'jvm.static.member.type'; old = -1, new = 2 
+2020-11-17 11:31:41,038 [   3615]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'jvm.static.member.name'; old = -1, new = 2 
+2020-11-17 11:31:41,047 [   3624]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.method.name'; old = -1, new = 2 
+2020-11-17 11:31:41,055 [   3632]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.class.fqn'; old = -1, new = 1 
+2020-11-17 11:31:41,064 [   3641]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.field.name'; old = -1, new = 2 
+2020-11-17 11:31:41,072 [   3649]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.anonymous.baseref'; old = -1, new = 2 
+2020-11-17 11:31:41,079 [   3656]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'java.annotations'; old = -1, new = 2 
+2020-11-17 11:31:41,087 [   3664]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'markdown.header'; old = -1, new = 2 
+2020-11-17 11:31:41,094 [   3671]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'properties.index'; old = -1, new = 2 
+2020-11-17 11:31:41,101 [   3678]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.class.fqn'; old = -1, new = 1 
+2020-11-17 11:31:41,108 [   3685]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.script.fqn'; old = -1, new = 2 
+2020-11-17 11:31:41,115 [   3692]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.field.name'; old = -1, new = 2 
+2020-11-17 11:31:41,123 [   3700]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.method.name'; old = -1, new = 2 
+2020-11-17 11:31:41,133 [   3710]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.annot.method.name'; old = -1, new = 2 
+2020-11-17 11:31:41,144 [   3721]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.annot.members'; old = -1, new = 2 
+2020-11-17 11:31:41,154 [   3731]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.script.class'; old = -1, new = 2 
+2020-11-17 11:31:41,164 [   3741]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.class.super'; old = -1, new = 2 
+2020-11-17 11:31:41,174 [   3751]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'gr.anonymous.class'; old = -1, new = 3 
+2020-11-17 11:31:41,183 [   3760]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,192 [   3769]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,201 [   3778]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,212 [   3789]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,222 [   3799]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,231 [   3808]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,240 [   3817]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,250 [   3827]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,260 [   3837]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,272 [   3849]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,284 [   3861]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,296 [   3873]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,311 [   3888]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,325 [   3902]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,339 [   3916]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,353 [   3930]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex'; old = -1, new = 3 
+2020-11-17 11:31:41,367 [   3944]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,378 [   3955]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,390 [   3967]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,404 [   3981]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,418 [   3995]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,431 [   4008]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,442 [   4019]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,474 [   4051]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,493 [   4070]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,504 [   4081]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,514 [   4091]   INFO - il.indexing.FileBasedIndexImpl - index version changed for 'org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex'; old = -1, new = 2 
+2020-11-17 11:31:41,524 [   4101]   INFO - tellij.psi.stubs.StubIndexImpl - Following stub indices will be built:dom.namespaceKey,dom.elementClass,java.annotations,java.class.extlist,java.field.name,java.method.name,jvm.static.member.name,jvm.static.member.type,java.anonymous.baseref,java.method.parameter.types,java.class.shortname,java.class.fqn,java.module.name,markdown.header,properties.index,gr.class.fqn,gr.script.fqn,gr.field.name,gr.method.name,gr.annot.method.name,gr.annot.members,gr.script.class,gr.class.super,gr.anonymous.class,org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex,org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex,org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex 
+2020-11-17 11:31:41,525 [   4102]   INFO - exImpl$StubIndexInitialization - Initialization done: 627 
+2020-11-17 11:31:41,972 [   4549]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-11-17 11:31:42,043 [   4620]   INFO - penapi.application.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.p9.show.roots.in.file.chooser, inline.browse.button, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, copy.reference.popup, new.large.text.file.viewer, property.value.inplace.editing, terminal.shell.command.handling 
+2020-11-17 11:32:26,431 [  49008]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 21087ms, details saved to G:\tool\git\xzc\work_for_your_mind\doitnow\build\idea-sandbox\system\log\threadDumps-freeze-20201117-113210-IC-201.7846.76-Unsafe.park-21sec 
+2020-11-17 11:32:38,256 [  60833]   INFO - lij.impl.ConversionServiceImpl - conversion will be performed because at least G:\workspace\pluginTest\FizzBuzz\.idea\jarRepositories.xml is changed (oldLastModified=-1, newLastModified=1605079125708 
+2020-11-17 11:32:38,449 [  61026]   INFO - BridgeProjectLifecycleListener - Using legacy project model to open project 
+2020-11-17 11:32:38,570 [  61147]   INFO - CompilerWorkspaceConfiguration - Available processors: 24 
+2020-11-17 11:32:38,630 [  61207]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2020-11-17 11:32:39,424 [  62001]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2020-11-17 11:32:39,656 [  62233]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.sdk.AndroidSdks) 
+2020-11-17 11:32:39,678 [  62255]   WARN - vdmanager.AvdManagerConnection - No Android SDK Found 
+2020-11-17 11:32:39,715 [  62292]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 10 millis (read time: 1) 
+2020-11-17 11:32:39,854 [  62431]   INFO - ProjectRootPostStartUpActivity - G:/workspace/pluginTest/FizzBuzz/.idea case-sensitivity: expected=false actual=false 
+2020-11-17 11:32:39,905 [  62482]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 312ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:32:39,924 [  62501]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Problems View) or icon jar:file:/C:/Users/xzc/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.2/86566d2c582df026dd77c0c502a21dfac312563a/ideaIC-2020.1.2/lib/icons.jar!/general/warning.svg 
+2020-11-17 11:32:40,524 [  63101]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 2236 ms 
+2020-11-17 11:32:40,525 [  63102]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@46d7a5ee 
+2020-11-17 11:32:40,768 [  63345]   INFO - System.util.ExternalSystemUtil - External project [G:/workspace/pluginTest/FizzBuzz] resolution task executed in 109 ms. 
+2020-11-17 11:32:41,353 [  63930]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 581ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2020-11-17 11:32:41,370 [  63947]   INFO - rationStore.ComponentStoreImpl - Saving appDebuggerSettings took 14 ms, FileTypeManager took 12 ms 
+2020-11-17 11:32:41,858 [  64435]   INFO - ge.ExternalProjectsDataStorage - Save external projects data in 104 ms 
+2020-11-17 11:32:41,952 [  64529]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.core.script.configuration.utils.ScriptClassRootsStorage 
+2020-11-17 11:32:41,989 [  64566]   INFO - rationStore.ComponentStoreImpl - Saving Project (name=FizzBuzz, containerState=ACTIVE, componentStore=G:\workspace\pluginTest\FizzBuzz) ArtifactManager took 27 ms, RunManager took 12 ms 
+2020-11-17 11:32:42,236 [  64813]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 1121 ms 
+2020-11-17 11:32:45,056 [  67633]   WARN - .intellij.diagnostic.VMOptions - VM options file not configured 
+2020-11-17 11:32:45,056 [  67633]   INFO - gnostic.MemorySizeConfigurator - Physical memory 98294M, minimum memory size 256M, -Xmx adjusted from 512M to 2048M 
+2020-11-17 11:32:45,298 [  67875]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3940ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:32:45,321 [  67898]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 43302 files to update 
+2020-11-17 11:32:50,004 [  72581]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2020-11-17 11:32:50,715 [  73292]   INFO - ateSettings.impl.UpdateChecker - failed to load plugin descriptions from : Malformed URL:  
+2020-11-17 11:32:54,015 [  76592]   WARN - s.ui.configuration.SdkDetector - No version is returned for detected SDK IDEA JDK at C:/Users/xzc/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.2/86566d2c582df026dd77c0c502a21dfac312563a/ideaIC-2020.1.2 
+2020-11-17 11:33:00,517 [  83094]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@46d7a5ee 
+2020-11-17 11:33:00,563 [  83140]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@46d7a5ee 
+2020-11-17 11:33:00,564 [  83141]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@5e824f9a 
+2020-11-17 11:33:00,577 [  83154]   INFO - g.jetbrains.kotlin.idea.script - [kts] loading script definitions [] using cp:  
+2020-11-17 11:33:00,600 [  83177]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2020-11-17 11:33:00,604 [  83181]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@38c3e033 
+2020-11-17 11:33:00,613 [  83190]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:01,104 [  83681]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 490ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:01,111 [  83688]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 19560 files to update 
+2020-11-17 11:33:06,246 [  88823]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 5135ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:06,247 [  88824]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-11-17 11:33:06,248 [  88825]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project (name=FizzBuzz, containerState=ACTIVE, componentStore=G:\workspace\pluginTest\FizzBuzz)  
+2020-11-17 11:33:06,303 [  88880]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@44d11ef2 
+2020-11-17 11:33:06,312 [  88889]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@2b8cd842 
+2020-11-17 11:33:06,401 [  88978]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-11-17 11:33:06,402 [  88979]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project (name=FizzBuzz, containerState=ACTIVE, componentStore=G:\workspace\pluginTest\FizzBuzz)  
+2020-11-17 11:33:06,408 [  88985]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@41a0f7d 
+2020-11-17 11:33:06,410 [  88987]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-11-17 11:33:06,410 [  88987]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project (name=FizzBuzz, containerState=ACTIVE, componentStore=G:\workspace\pluginTest\FizzBuzz)  
+2020-11-17 11:33:06,825 [  89402]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from D:/Java/jdk1.8.0_144 
+2020-11-17 11:33:06,831 [  89408]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from D:/Java/jdk1.8.0_144 
+2020-11-17 11:33:10,108 [  92685]  ERROR - nSystem.impl.ActionManagerImpl - Icon cannot be found in 'SdkIcons.Sdk_default_icon', action 'class com.doitnow.PopupDialogAction' [Plugin: org.example.wlnlz.doitnow] 
+com.intellij.diagnostic.PluginException: Icon cannot be found in 'SdkIcons.Sdk_default_icon', action 'class com.doitnow.PopupDialogAction' [Plugin: org.example.wlnlz.doitnow]
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.reportActionError(ActionManagerImpl.java:393)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.reportActionError(ActionManagerImpl.java:388)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.access$000(ActionManagerImpl.java:74)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl$1.compute(ActionManagerImpl.java:288)
+	at com.intellij.openapi.util.IconLoader$LazyIcon.getOrComputeIcon(IconLoader.java:1097)
+	at com.intellij.openapi.util.IconLoader.getDisabledIcon(IconLoader.java:427)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.updateIcon(ActionMenuItem.java:228)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.init(ActionMenuItem.java:153)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.<init>(ActionMenuItem.java:82)
+	at com.intellij.openapi.actionSystem.impl.Utils.fillMenu(Utils.java:157)
+	at com.intellij.openapi.actionSystem.impl.ActionMenu.fillMenu(ActionMenu.java:326)
+	at com.intellij.openapi.actionSystem.impl.ActionMenu$MenuListenerImpl.menuSelected(ActionMenu.java:283)
+	at java.desktop/javax.swing.JMenu.fireMenuSelected(JMenu.java:1036)
+	at java.desktop/javax.swing.JMenu$MenuChangeListener.stateChanged(JMenu.java:1116)
+	at java.desktop/javax.swing.DefaultButtonModel.fireStateChanged(DefaultButtonModel.java:352)
+	at java.desktop/javax.swing.DefaultButtonModel.setSelected(DefaultButtonModel.java:234)
+	at java.desktop/javax.swing.JMenu.setSelected(JMenu.java:291)
+	at java.desktop/javax.swing.JMenu.menuSelectionChanged(JMenu.java:1187)
+	at com.intellij.openapi.actionSystem.impl.ActionMenu.menuSelectionChanged(ActionMenu.java:209)
+	at java.desktop/javax.swing.MenuSelectionManager.setSelectedPath(MenuSelectionManager.java:129)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuUI$Handler.mousePressed(BasicMenuUI.java:508)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6647)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6415)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5025)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4857)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4544)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2773)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4857)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:974)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:912)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:844)
+	at com.intellij.ide.IdeEventQueue.lambda$null$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:741)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:831)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-11-17 11:33:10,111 [  92688]  ERROR - nSystem.impl.ActionManagerImpl - IntelliJ IDEA 2020.1.2  Build #IC-201.7846.76 
+2020-11-17 11:33:10,111 [  92688]  ERROR - nSystem.impl.ActionManagerImpl - JDK: 11.0.7; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o. 
+2020-11-17 11:33:10,111 [  92688]  ERROR - nSystem.impl.ActionManagerImpl - OS: Windows 10 
+2020-11-17 11:33:10,111 [  92688]  ERROR - nSystem.impl.ActionManagerImpl - Plugin to blame: Plugin display name here version: 1.0-SNAPSHOT 
+2020-11-17 11:33:10,111 [  92688]  ERROR - nSystem.impl.ActionManagerImpl - Last Action: WelcomeScreen.OpenProject 
+2020-11-17 11:33:10,158 [  92735]  ERROR - nSystem.impl.ActionManagerImpl - Icon cannot be found in 'SdkIcons.Sdk_default_icon', action 'class com.doitnow.PopupDialogAction' [Plugin: org.example.wlnlz.doitnow] 
+com.intellij.diagnostic.PluginException: Icon cannot be found in 'SdkIcons.Sdk_default_icon', action 'class com.doitnow.PopupDialogAction' [Plugin: org.example.wlnlz.doitnow]
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.reportActionError(ActionManagerImpl.java:393)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.reportActionError(ActionManagerImpl.java:388)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.access$000(ActionManagerImpl.java:74)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl$1.compute(ActionManagerImpl.java:288)
+	at com.intellij.openapi.util.IconLoader$LazyIcon.getOrComputeIcon(IconLoader.java:1097)
+	at com.intellij.openapi.util.IconLoader$LazyIcon.paintIcon(IconLoader.java:1073)
+	at com.intellij.ui.plaf.beg.BegMenuItemUI.paint(BegMenuItemUI.java:140)
+	at com.intellij.ui.plaf.beg.BegMenuItemUI.update(BegMenuItemUI.java:468)
+	at java.desktop/javax.swing.JComponent.paintComponent(JComponent.java:800)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1077)
+	at java.desktop/javax.swing.JComponent.paintChildren(JComponent.java:910)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1086)
+	at com.intellij.openapi.ui.JBPopupMenu.paint(JBPopupMenu.java:68)
+	at java.desktop/javax.swing.JComponent.paintChildren(JComponent.java:910)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1086)
+	at java.desktop/javax.swing.JComponent.paintChildren(JComponent.java:910)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1086)
+	at java.desktop/javax.swing.JLayeredPane.paint(JLayeredPane.java:590)
+	at java.desktop/javax.swing.JComponent.paintChildren(JComponent.java:910)
+	at java.desktop/javax.swing.JComponent.paintToOffscreen(JComponent.java:5270)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBufferedImpl(RepaintManager.java:1654)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1629)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1566)
+	at java.desktop/javax.swing.RepaintManager.paint(RepaintManager.java:1333)
+	at java.desktop/javax.swing.JComponent.paint(JComponent.java:1063)
+	at java.desktop/java.awt.GraphicsCallback$PaintCallback.run(GraphicsCallback.java:39)
+	at java.desktop/sun.awt.SunGraphicsCallback.runOneComponent(SunGraphicsCallback.java:78)
+	at java.desktop/sun.awt.SunGraphicsCallback.runComponents(SunGraphicsCallback.java:115)
+	at java.desktop/java.awt.Container.paint(Container.java:2002)
+	at java.desktop/java.awt.Window.paint(Window.java:3941)
+	at java.desktop/javax.swing.RepaintManager$4.run(RepaintManager.java:879)
+	at java.desktop/javax.swing.RepaintManager$4.run(RepaintManager.java:851)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:851)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:826)
+	at java.desktop/javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:775)
+	at java.desktop/javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1901)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:974)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:847)
+	at com.intellij.ide.IdeEventQueue.lambda$null$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:741)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-11-17 11:33:10,159 [  92736]  ERROR - nSystem.impl.ActionManagerImpl - IntelliJ IDEA 2020.1.2  Build #IC-201.7846.76 
+2020-11-17 11:33:10,159 [  92736]  ERROR - nSystem.impl.ActionManagerImpl - JDK: 11.0.7; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o. 
+2020-11-17 11:33:10,159 [  92736]  ERROR - nSystem.impl.ActionManagerImpl - OS: Windows 10 
+2020-11-17 11:33:10,159 [  92736]  ERROR - nSystem.impl.ActionManagerImpl - Plugin to blame: Plugin display name here version: 1.0-SNAPSHOT 
+2020-11-17 11:33:10,159 [  92736]  ERROR - nSystem.impl.ActionManagerImpl - Last Action: WelcomeScreen.OpenProject 
+2020-11-17 11:33:10,211 [  92788]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 230 ms 
+2020-11-17 11:33:12,530 [  95107]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 3.6.0-rc01 
+2020-11-17 11:33:12,541 [  95118]   INFO - oject.common.GradleInitScripts - init script file sync.studio.tooling contents "initscript {\n    dependencies {\n        classpath files(['C:\\\\Users\\\\xzc\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.jetbrains.intellij.idea\\\\ideaIC\\\\2020.1.2\\\\86566d2c582df026dd77c0c502a21dfac312563a\\\\ideaIC-2020.1.2\\\\plugins\\\\android\\\\lib\\\\android.jar', 'C:\\\\Users\\\\xzc\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.jetbrains.intellij.idea\\\\ideaIC\\\\2020.1.2\\\\86566d2c582df026dd77c0c502a21dfac312563a\\\\ideaIC-2020.1.2\\\\plugins\\\\android\\\\lib\\\\android.jar', 'C:\\\\Users\\\\xzc\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.jetbrains.intellij.idea\\\\ideaIC\\\\2020.1.2\\\\86566d2c582df026dd77c0c502a21dfac312563a\\\\ideaIC-2020.1.2\\\\lib\\\\kotlin-stdlib-1.3.70.jar'])\n    }\n}\nallprojects {\n    apply plugin: com.android.ide.gradle.model.builder.AndroidStudioToolingPlugin\n}\n" 
+2020-11-17 11:33:12,599 [  95176]   INFO - ration.services.NativeServices - Initialized native services in: C:\Users\xzc\.gradle\native 
+2020-11-17 11:33:12,614 [  95191]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.sync.active=true -Didea.resolveSourceSetDependencies=true -Porg.gradle.kotlin.dsl.provider.cid=328270881639748 --init-script C:\Users\xzc\AppData\Local\Temp\sync.studio.tooling11.gradle -Djava.awt.headless=true --stacktrace -Pandroid.injected.build.model.only=true -Pandroid.injected.build.model.only.advanced=true -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.model.only.versioned=3 -Pandroid.injected.build.model.disable.src.download=true -Pidea.gradle.do.not.build.tasks=false --init-script C:\Users\xzc\AppData\Local\Temp\ijinit2.gradle 
+2020-11-17 11:33:33,300 [ 115877]   INFO - System.util.ExternalSystemUtil - External project [G:/workspace/pluginTest/FizzBuzz] resolution task executed in 26564 ms. 
+2020-11-17 11:33:33,712 [ 116289]   INFO - ge.ExternalProjectsDataStorage - Save external projects data in 32 ms 
+2020-11-17 11:33:34,632 [ 117209]   INFO - .diagnostic.PerformanceWatcher - Searching for external libraries with Android resources. Found 0 libraries. took 8ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:34,672 [ 117249]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from D:/Java/jdk1.8.0_144 
+2020-11-17 11:33:34,673 [ 117250]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@7cc26b6 
+2020-11-17 11:33:34,683 [ 117260]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 10ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:34,755 [ 117332]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 72ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:34,757 [ 117334]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 578 files to update 
+2020-11-17 11:33:34,913 [ 117490]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 156ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-11-17 11:33:34,913 [ 117490]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2020-11-17 11:33:34,914 [ 117491]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project (name=FizzBuzz, containerState=ACTIVE, componentStore=G:\workspace\pluginTest\FizzBuzz)  
+2020-11-17 11:39:10,707 [ 453284]   INFO - rationStore.ComponentStoreImpl - Saving Module: 'FizzBuzz.test'NewModuleRootManager took 16 ms 
+2020-11-17 11:39:10,889 [ 453466]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-11-17 11:39:10,891 [ 453468]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-11-17 11:39:11,105 [ 453682]   INFO - Types.impl.FileTypeManagerImpl - 366 auto-detected files. Detection took 866 ms 
+2020-11-17 11:39:11,106 [ 453683]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
